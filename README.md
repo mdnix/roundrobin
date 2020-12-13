@@ -1,5 +1,5 @@
 # roundrobin
- A simple roundobin algorithm implementation written in Go.
+ A simple roundrobin algorithm implementation written in Go.
  
  This can be used to balance addresses on layer 4.
  
