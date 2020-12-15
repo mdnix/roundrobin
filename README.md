@@ -1,4 +1,7 @@
 # roundrobin
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/mdnix/roundrobin.svg)](https://pkg.go.dev/github.com/mdnix/roundrobin)
+
  A simple roundrobin algorithm implementation written in Go.
  
  This can be used to balance addresses on layer 4.
